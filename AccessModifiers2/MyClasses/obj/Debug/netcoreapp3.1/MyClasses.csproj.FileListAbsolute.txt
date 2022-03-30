@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.deps.json
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.pdb
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.AssemblyInfo.cs
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\User\Desktop\AccessModifiers2\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.pdb

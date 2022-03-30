@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp3.1\AccessModifiers2.exe
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp3.1\AccessModifiers2.deps.json
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp3.1\AccessModifiers2.runtimeconfig.json
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp3.1\AccessModifiers2.runtimeconfig.dev.json
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp3.1\AccessModifiers2.dll
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp3.1\AccessModifiers2.pdb
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\bin\Debug\netcoreapp3.1\MyClasses.pdb
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.AssemblyInfo.cs
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.csproj.CopyComplete
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.dll
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.pdb
+C:\Users\User\Desktop\AccessModifiers2\AccessModifiers2\obj\Debug\netcoreapp3.1\AccessModifiers2.genruntimeconfig.cache
